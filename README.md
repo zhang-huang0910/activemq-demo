@@ -1,2 +1,2 @@
 # activemq-demo
-demo for learning activemq
+a demo for learning activemq
